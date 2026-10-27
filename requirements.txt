@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+fsspec
+safetensors
+einops
+timm
+openpyxl
+deep-translator
+natsort
