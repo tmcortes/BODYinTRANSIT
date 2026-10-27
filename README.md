@@ -8,7 +8,7 @@ This repository contains the training and analysis code. It does **not** contain
 
 ![BODYinTRANSIT experimental framework: real-time auditory manipulation, intended body transformation, and multimodal acquisition.](Acquisition_Overview.png)
 
-*Experimental framework for BODYinTRANSIT. Self-generated footsteps are modified and played back in real time; the study records kinematics and physiological signals, which are aligned during preprocessing. Sensor locations and intended body transformations are schematic. [PDF figure](Acquisition_Overview.pdf).*
+*Experimental framework for BODYinTRANSIT. Self-generated footsteps are modified and played back in real time; the study records kinematics and physiological signals, which are aligned during preprocessing. Sensor locations and intended body transformations are schematic.*
 
 ## Dataset access
 
